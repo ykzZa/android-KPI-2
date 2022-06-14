@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="typesArray">
+        <item>Gaming</item>
+        <item>Universal</item>
+        <item>Business</item>
+        <item>Protected</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
